@@ -1,2 +1,7 @@
 print("Adding all the data processing code related to fraude detection")
-print("test")
+
+a = 5
+b = 6
+c = a+b
+
+print(c)
